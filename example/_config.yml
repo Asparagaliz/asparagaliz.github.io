@@ -8,7 +8,7 @@ lang: ja # site language (en/ja/zh-Hans/zh-Hant)
 color_scheme: github # this specifies color scheme for syntax highlighting
 github_username: asparagaliz
 twitter_username: asparagaliz
-# instagram_username: kamikat_bot
+instagram_username:
 
 # Build settings
 markdown: kramdown
